@@ -14,10 +14,6 @@ I build and operate complete online platforms end to end: real-time game servers
 - **Security:** anti-cheat systems, abuse detection, server-side validation
 - **Automation:** Discord bots, alerting, internal tooling
 
-### Creative
-
-Unity · Roblox · After Effects
-
 ---
 
 ### Stack
